@@ -1,0 +1,2 @@
+# SyntaxHighlighter Pieces
+Some elements from the [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) product from Alex Gorbatchev, from point in time (old). Used by vNugglets Blogger blog
